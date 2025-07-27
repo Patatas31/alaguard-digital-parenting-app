@@ -1,7 +1,3 @@
-
-
----
-
 ```markdown
 # AlaGuard - Digital Parenting Mobile App
 
